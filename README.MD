@@ -6,10 +6,10 @@ Current Successfully Quize status as below
 
 PASSED:- 
 JAVA :- https://github.com/Pansheriya-Vijay/Linkedin_assessment/blob/master/JAVA_assessment, 
-C#, 
-REACT JS, 
-MAVEN, 
-XML
+C# :- https://github.com/Pansheriya-Vijay/Linkedin_assessment/blob/master/C%23%20Assessment, 
+REACT JS :- https://github.com/Pansheriya-Vijay/Linkedin_assessment/blob/master/React.js%20Assessment, 
+MAVEN :- https://github.com/Pansheriya-Vijay/Linkedin_assessment/blob/master/Maven%20Assessment, 
+XML:- https://github.com/Pansheriya-Vijay/Linkedin_assessment/blob/master/XML_Assessment
 
 IN PROGRESS:- GIT, MONGODB, SCALA, PYTHON
 
