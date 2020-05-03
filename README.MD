@@ -4,7 +4,12 @@ This repository tried to give you all answers for LinkedIn questions and I passe
 
 Current Successfully Quize status as below
 
-PASSED:- JAVA, C#, REACT JS, MAVEN, XML
+PASSED:- 
+JAVA, 
+C#, 
+REACT JS, 
+MAVEN, 
+XML
 
 IN PROGRESS:- GIT, MONGODB, SCALA, PYTHON
 
