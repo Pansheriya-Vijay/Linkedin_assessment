@@ -5,7 +5,7 @@ This repository tried to give you all answers for LinkedIn questions and I passe
 Current Successfully Quize status as below
 
 PASSED:- 
-JAVA, 
+JAVA :- https://github.com/Pansheriya-Vijay/Linkedin_assessment/blob/master/JAVA_assessment, 
 C#, 
 REACT JS, 
 MAVEN, 
